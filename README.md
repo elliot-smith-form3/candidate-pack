@@ -6,7 +6,7 @@
 - High volume multi-cloud architecture 🚀
 - Build with cloud native technologies ☁️
 - SecDevOps engineering culture 🔐
-- Remote-first with staff in 20+ countries 🌍
+- Remote-first distributed team 🌍
 
 We are an award-winning cloud-native payment technology provider for financially regulated business.<br>
 We connect those regulated businesses to payment schemes all over the world so that they can deliver amazing products for their customers. <br>
@@ -38,7 +38,6 @@ Technical interview with 3 members of the Engineering Team via video-link. For f
 Read more about all things engineering on our [engineering site](https://www.form3.tech/engineering) and at [@Form3Tech on Twitter 🐦 ](https://twitter.com/Form3Tech).
 
 Have a look at these other pages for more interviewing details:
-- **[Visa sponsorship](./pages/visa-sponsorship.md)** 🛫
 - **[What we look for](./pages/what-we-look-for.md)** 🔎
 - **[FAQ](./pages/faq.md)** 🤨
   
